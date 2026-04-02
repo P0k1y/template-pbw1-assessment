@@ -1,10 +1,10 @@
 ## Identitas
 
-Nama: 
+Nama: Muhammad I'jaz Hasha
 
-NIM : 
+NIM : 607062500055
 
-Kelas :
+Kelas :D3IF 49-02
 
 ## Instruksi
 
